@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/sberbank-ai/ru-gpts)
+
 # ruGPT3Large, ruGPT3Medium, ruGPT3Small and ruGPT2Large
 Russian GPT trained with 2048 context length (ruGPT3Large), Russian GPT Medium trained with context 2048 (ruGPT3Medium), Russian GPT Small trained with context 2048 (ruGPT3Small) and Russian GPT2 large (ruGPT2Large) trained with 1024 context length.
 
